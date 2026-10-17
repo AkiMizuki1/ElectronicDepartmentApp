@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ElectronicDepartment.API/ElectronicDepartment.API.csproj" Id="9f58b4b2-e972-4d58-8b64-0eada54e12b6" />
+  <Project Path="ElectronicDepartment.BLL/ElectronicDepartment.BLL.csproj" />
+  <Project Path="ElectronicDepartment.DAL/ElectronicDepartment.DAL.csproj" />
+  <Project Path="ElectronicDepartment.Tests/ElectronicDepartment.Tests.csproj" Id="a1cf6263-afdb-4d83-b4cb-8926c289a502" />
+</Solution>
